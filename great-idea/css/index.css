@@ -64,3 +64,138 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Copy and paste your work from yesterday here and start to refactor into flexbox */
+.container-everything {
+	margin: 0 auto; 
+}
+.container {
+	display: flex;
+	margin-bottom: 20px;   
+}
+.container nav {
+	margin-bottom: 20px; 
+}
+.container nav a {
+	margin-right: 30px; 
+	color: grey; 
+	text-decoration: none; 
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+}
+ h1 {
+    font-size: 60px
+ }
+.header-1 {
+    display: flex;
+     justify-content: center;
+     margin-bottom: 40px;
+     }
+.header-1 .left-header{
+       padding-top: 60px;
+       padding-right: 80px;
+    }
+
+.header-1 .cta-button {
+    display: flex;
+    justify-content: center;
+	margin: 10px;
+	border: 2px solid black; 
+	text-decoration: none; 
+	padding: 10px; 
+	color: rgba(0, 0, 0, 0.473); 
+ }
+
+.container-feature-about {
+	display: flex;
+	margin-bottom: 20px; 
+	justify-content: center; 
+}
+.container-services-product-vision {
+	display: flex; 
+	margin-top: 20px; 
+	justify-content: center; 
+}
+#copyright {
+	text-align: center; 
+}
+
+/* 		service-page			*/
+
+.container5 {
+	display: flex;
+	margin-bottom: 20px;   
+}
+.container5 nav {
+	margin-bottom: 20px; 
+}
+.container5 nav a {
+	margin-right: 30px; 
+	color: grey; 
+	text-decoration: none; 
+}
+.services {
+	display: flex; 
+	margin-bottom: 20px; 
+	padding: 2px;
+}
+.services-header-img{
+	margin-bottom: 20px; 
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+}
+.content {
+	display: flex; 
+	justify-content: space-around; 
+	margin: 10px; 
+	padding: 10px; 
+}
+.main-content-beginning {
+	display: flex; 
+	border: 1px solid black; 
+	width: 50%; 
+}
+.main-content-beginning2 {
+	display: flex; 
+	border: 1px solid black; 
+	width: 50%; 
+}
+.content2 {
+	display: flex; 
+	justify-content: space-around; 
+	margin: 10px; 
+	padding: 10px; 
+}
+.main-content-beginning3 {
+	display: flex; 
+	border: 1px solid black; 
+	width: 50%; 
+}
+.main-content-beginning4 {
+	display: flex; 
+	border: 1px solid black; 
+	width: 50%; 
+}
+.content3 {
+	display: flex; 
+	justify-content: space-around; 
+	margin: 10px; 
+	padding: 10px; 
+}
+.main-content-beginning5 {
+	display: flex; 
+	border: 1px solid black; 
+	width: 50%; 
+}
+.main-content-beginning6 {
+	display: flex; 
+	border: 1px solid black; 
+	width: 50%; 
+}

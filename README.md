@@ -5,7 +5,7 @@ Now that you have experienced building a layout using `inline-block`.  Lets revi
 Once you have finished the home page using flex box module, go build the services page based on the [design file](design-files/services-desktop-design.png) provided to you.  This time you will need to structure your own HTML in addition to using flex box module.  You have been provided all the necessary images in the `img` folder.
 
 **Useful Resource: [CSS Tricks Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
-
+x
 ## To Get Started
 
 * Fork the project to your GitHub account
